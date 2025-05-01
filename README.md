@@ -1,4 +1,4 @@
-# 🌟 Deep Baidya's Personal Website
+# 🌟 Protifolito Website
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=550&lines=Welcome+to+My+Digital+Home;Web+Developer+%7C+Cyber+Security+Enthusiast;BCA+Student+%40+JIS+University" alt="Animated Header">
