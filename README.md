@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.deepbaidya.netlify.app" target="_blank">
+  <a href="https://deepbaidya.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
   </a>
   <a href="https://www.buymeacoffee.com/dbaidya811e" target="_blank">
