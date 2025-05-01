@@ -1,99 +1,55 @@
-# Personal Portfolio Website
+# 🌟 Deep Baidya's Personal Website
 
-A modern, responsive portfolio website showcasing my work as a Web Developer and Cyber Security Expert.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=550&lines=Welcome+to+My+Digital+Home;Web+Developer+%7C+Cyber+Security+Enthusiast;BCA+Student+%40+JIS+University" alt="Animated Header">
+</div>
 
-## Features
+<p align="center">
+  <a href="https://www.deepbaidya.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
+  </a>
+  <a href="https://www.buymeacoffee.com/dbaidya811e" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support">
+  </a>
+</p>
 
-- 📱 Fully Responsive Design
-- 🌙 Modern UI/UX
-- 🎨 Animated Sections
-- 📊 Skills Progress Bars
-- 🎯 Portfolio Filter
-- 📬 Contact Form with Formspree Integration
-- 🔗 Social Media Links
-- 📄 Downloadable CV
+---
 
-## Animations
+## 🏡 About This Project
+**A showcase of my skills, projects and professional journey**  
+Built with pure passion and:  
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" width="200">
 
-- ✨ Smooth scroll animations
-- 🔄 Skill bars progress animation
-- 📱 Mobile menu slide animation
-- 💫 Hero section text fade-in
-- 🎯 Hover effects on buttons and cards
-- 📈 Scroll-triggered animations for sections
-- 🌟 Portfolio items scale and overlay animation
+Key Features:
+- ✅ Responsive Portfolio Design
+- ✅ Project Showcase Section
+- ✅ Interactive Elements
+- ✅ Contact Form
+- ✅ Dark/Light Mode Toggle
 
-## Images & Media
+---
 
-### Icons
-- Favicon and touch icons for various devices
-- Font Awesome icons for services and social media
-- Custom icon set for skills and features
+## 🛠️ Installation
+```bash
+git clone https://github.com/dbaidya811/personal-website.git
+cd personal-website
+# Open index.html in browser
+```
+## 📸 Screenshots
+<a href="https://ibb.co/LDZnrGh1"><img src="https://i.ibb.co/35CBvJYc/Screenshot-2025-05-01-111741.png" alt="Screenshot-2025-05-01-111741" border="0" align="center" /></a>
 
-### Profile Images
-- Professional headshot in hero section (`me.png`)
-- About section profile image (`me2.png`)
-- Various sizes of favicons and app icons:
-  - android-chrome-192x192.png
-  - android-chrome-512x512.png
-  - apple-touch-icon.png
-  - favicon-16x16.png
-  - favicon-32x32.png
+## 🤝 How to Contribute
+<b>Found a bug or have suggestions?<b/>
 
-### Portfolio Images
-- 6 high-quality project showcase images
-- Responsive image loading for better performance
-- Hover overlay effects with project details
+<p>Fork the repository<p/>
 
-## Sections
+<p>Create your feature branch (git checkout -b feature/improvement)</p>  
 
-1. **Home** - Introduction and call-to-action
-2. **About** - Personal information and experience
-3. **Skills** - Technical expertise with progress bars
-4. **Portfolio** - Filterable project showcase
-5. **Services** - Services offered
-6. **Contact** - Contact form and information
+<p>Commit your changes (git commit -m 'Add some feature')</p>
 
-## Technologies Used
+<p>Push to the branch (git push origin feature/improvement)</p>
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Formspree (Contact Form)
+<p>Open a Pull Request</p>
 
-## Dependencies
-
-- Font Awesome 6.4.0
-- AOS (Animate On Scroll)
-- Animate.css
-- Slick Carousel
-
-## Setup
-
-1. Clone the repository
-2. Open `index.html` in your browser
-3. For contact form functionality, replace the Formspree endpoint in the contact form with your own
-
-## Contact Form
-
-The contact form is integrated with Formspree. To make it work:
-1. The form uses the POST method
-2. Required fields: Name, Email, and Message
-3. Messages are sent to the specified Formspree endpoint
-
-## Social Links
-
-- GitHub: [dbaidya811](https://github.com/dbaidya811)
-- LinkedIn: [Deep Baidya](https://www.linkedin.com/in/deep-baidya-0376b1315)
-- Twitter: [@dbaidya811](https://x.com/dbaidya811)
-- Instagram: [@dbaidya811](https://www.instagram.com/dbaidya811/)
-
-## Support
-
-Consider supporting the project:
-- [Buy Me A Coffee](https://www.buymeacoffee.com/dbaidya811e)
-
-## License
-
-© 2025-2030 One Software Solution. All Rights Reserved.
+## 📬 Connect With Me
+<p align="center"> <a href="https://instagram.com/dbaidya811"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://linkedin.com/in/deep-baidya-0376b1315"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:dbaidya811@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p><div align="center"> <img src="https://komarev.com/ghpvc/?username=dbaidya811&label=Profile+Views&color=22D3EE&style=flat" alt="Visitor Count"> <p>Made with ❤️ in Kolkata</p> </div>
